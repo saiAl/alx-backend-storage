@@ -1,0 +1,2 @@
+// list all document with specific name value
+db.school.find({name: "Holberton school"})
